@@ -1,0 +1,4 @@
+python==3.6.15
+djangorestframework==3.6.2
+django==1.11.17
+
